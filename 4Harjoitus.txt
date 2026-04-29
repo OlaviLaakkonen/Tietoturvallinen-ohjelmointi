@@ -1,0 +1,26 @@
+1. Jos et ole tilannut mitään eli et odota pakettia viestistä tietää heti sen olevan huijaus, sekä linkki ei ole oikean näköinen.
+
+2. Viesti on väärin ja oudosti kirjoitettu, sekä linkki näyttää hyvin epämääräiseltä.	
+
+3. Viesti on kirjoitettu väärin ja epäasiallisesti.
+
+4. Viestissä on paljon kirjoitusvirheitä ja muita kummallisuuksia, kuten "sisäänrakennettu ajasin".
+
+5. S-Pankki on kirjoitettu väärin ja sähköpostiosoite on erikoinen eikä selvästikkään S-Pankkiin liitoksissa.
+
+6. Viesti on kirjoitettu väärin, sekä "Hyvä käyttäjä" on todella erikoinen viestin aloitus.
+
+7. Viestin rakenne on outo ja se on kirjoitettu väärin. + Se on liian hyvä ollakseen totta.
+
+8. Viesti on epäluetettavan näköinen ja epäasiallinen.
+
+Kysymys 9 
+
+Kuvitellaan tilanne, että asiakas huomaa, että hänen nimissään on tehty lehden kestotilaus, mutta omasta mielestään hän tilasi vain näytenumeron. Yrityksen mielestä tilaus on tehty normaalisti puhelinmyynnillä. Selvitä ja selitä kummalla osapuolella (asiakas vai yritys) on velvoite todistaa oma kantansa. Linkitä vastaukseen myös lähteet, josta löysit tiedot!
+    Yrityksen (myyjän) on velvoite todistaa oma kantansa
+    https://www.kkv.fi/kuluttaja-asiat/tietoa-ja-ohjeita-yrityksille/kuluttaja-asiamiehen-ohjeistukset/ohjeistus-puhelinmyyntiin-liittyvista-velvoitteista/
+
+Kysymys 10
+
+Olen yllä esittänyt muutamia kuvia huijausviesteistä. Kerro lyhyesti jostain viimeksi saamastasi vastaavasta viestistä. Esitä arviosi siitä, mitä kyseisillä viesteillä rikollinen on tavoitellut.
+    Sain joskus viestin ilmaisesta Iphonesta, joka oli selvästi huijaus joka yritti saada pankkitietojani ja muita tietoja.
