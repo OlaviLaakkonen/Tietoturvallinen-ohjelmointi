@@ -1,0 +1,17 @@
+1. Minkälaista kirjautumistapaa oma pankkisi (OP, Nordea, jne) käyttää? Onko kirjautumiseen vaihtoehtoja? Mitä näistä mahdollisista vaihtoehdoista itse käytät?
+    Nordean sovelluksessa on monia eri kirjautumistapoja (salasana, Nordea ID, käyttäjätunnus), mutta itse käytän Nordea ID-sovellusta.
+
+Esitä arviosi kuinka turvallinen tämä kirjautumistapa on. Voiko käyttäjä tehdä jotain väärin, niin että ulkopuolinen pääsee käsiksi tililläsi oleviin rahoihin? Voiko rikollinen tehdä jotain minkä ansiosta tilisi päätyy verkkomurtautujan hallintaan? 
+    Sanoisin, että kirjautumistapani on hyvin turvallinen sillä se on kaksivaiheinen todennus, koska se käyttää toista sovellusta.
+    Tilisi on vaarassa, jos Nordea ID-sovelluksen salasana vuotaa tai joku saa sen käsiinsä.
+
+2. Miten tässä pankissa varmistetaan laskua maksettaessa, että maksun toimeenpanija olet sinä?
+    Maksutapahtumassa, jos maksat verkossa Nordea yleensä kysyy Nordea ID-salasanaa joka täytyy laittaa puhelimellasi eli kaksivaiheinen todennus.
+
+3. Onko pankillasi käytössä mobiilimaksaminen? Jos käytät sitä itse, kerro kokemuksesi. Arvioi riskit mitä mobiilimaksamiseen liittyy.
+    Nordealla on mobiilimaksaminen, jota myös itse käytän (Google Pay). Mobiilimaksaminen on todella kätevä, mutta hieman turvattomampi 
+    kuin tavallinen maksaminen, koska mobiilimaksu ei ikinä kysy salasanaasi, kun maksat lähimaksulla.
+
+4. Mobiilivarmenne: kerro mihin sitä käytetään ja mistä se hankitaan.
+    Mobiilivarmenteella tunnistaudut ja kirjaudut helposti ja turvallisesti. 
+    Mobiilivarmenteen saa käyttöön Elisan, DNA:n tai Telian asiakas.
