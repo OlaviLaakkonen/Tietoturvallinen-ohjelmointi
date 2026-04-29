@@ -1,0 +1,35 @@
+Mitkä ovat tietoturvan kolme pääelementtiä? 
+    Tietoturvan pääelementit ovat luottamuksellisuus, eheys ja saatavuus.
+
+Miten DDos liittyy saatavuuteen? 
+    DDos eli Distributed Denial of Service (suomeksi palvelunestohyökkäys) estää verkkosivun saatavuuden 
+    sillä DDos-hyökkäys kohdistaa sivulle niin paljon liikennettä, että se ei pysty palvelemaan asiakkaita.
+
+Mitkä tekniset ratkaisut parantavat saatavuutta? 
+    Saatavuuden parantamiseksi olennaisia asioita ovat varmuuskopiointi, luetettavat ja tehokkaat verkkoyhteydet, 
+    kuormituksen jako kahdelle tai useammalle palvelimelle, sekä laitteisiin liittyvät turvat kuten RAID ja UPS 
+
+Opettaja ei saa katsoa Wilmasta sellaisen opiskelijan tietoja, jota ei opeta. Mihin tietoturvan pääelementtiin tämä liittyy? 
+    Tämä liittyy luottamuksellisuuteen.
+
+Tarkistussumma liittyy tietoturvan kolmesta pääelementistä yhteen – mihin? 
+    Tarkistussumma liittyy eheyteen.
+
+Turun ammatti-instituutissa opiskelija ja opettaja kirjautuvat samalta sivulta (turku.inschool.fi) Wilmaan. Arvioi opiskelijan ja opettajan erilaisia oikeuksia / mahdollisuuksia toimia Wilmassa. Pari esimerkkiä siitä, mitä opettaja voi tehdä, mutta opiskelija ei. 
+    Opettajat pystyvät nähdä muidenkin ihmisten tietoja.
+    Opettajat pystyvät arvioimaan oppilaita.
+    Opettajat pystyvät lähettämään opiskelijoille viestejä.
+
+Tietosuoja ja tietoturva - kumpaan liittyy: 
+
+koulumme eri tiloihin sijoitetut valvontakamerat
+    Tietosuoja
+
+saman salasanan käyttö kahdessa tai useammassa palvelussa
+    Tietoturva
+
+puhelimitse tehdyn tilauksen äänitallenne, josta selviää että asiakas on tilannut tietyn tuotteen
+    Tietosuoja
+
+poistan Moodle-kurssiltani siihen liittyvät opiskelijat ja poistan samalla vahingossa itseni
+    Tietosuoja
