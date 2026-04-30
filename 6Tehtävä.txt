@@ -1,0 +1,70 @@
+Minkälaisilla keinoilla voi pienentää yleisistä uhkista aiheutuvia vaikutuksia? Kerro omin sanoin kustakin listatusta uhasta (ohjelmistohyökkäykset, IP-varkaudet, identiteettivarkaudet, laitevarkaudet, sabotaasi, sekä kiristys):
+
+Miten sen toteutumisen todennäköisyyttä voi pienentää
+Millä ennakoivilla toimilla toteutuneen uhan vaikutuksia voi vähentää
+
+
+Ohjelmistohyökkäykset:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Päivitä ohjelmistot ja käyttöjärjestelmät säännöllisesti, käytä palomuureja ja virustorjuntaa, vahvat salasanat ja monivaiheinen tunnistautuminen, henkilöstön koulutus
+
+Vaikutusten pienentäminen:
+
+    Säännölliset varmuuskopiot, verkkojen segmentointi, toipumissuunnitelma
+
+
+IP-varkaudet:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Käyttöoikeuksien rajaaminen, salassapitosopimukset, tiedon luokittelu ja suojaaminen, valvonta
+
+Vaikutusten pienentäminen:
+
+    Patentointi, tavaramerkit ja tekijänoikeudet, dokumentointi, sopimukset ja oikeudellinen suoja, hajautettu tiedon säilytys
+
+
+Identiteettivarkaudet:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Vahvat ja uniikit salasanat, monivaiheinen tunnistautuminen, varovaisuus henkilötietojen jakamisessa, tietojenkalastelun tunnistaminen
+
+Vaikutusten pienentäminen:
+
+    Luottokielto tai valvontapalvelut, nopea reagointi, lokit ja ilmoitukset epäilyttävästä käytöstä, varmuuskopiot ja palautusmahdollisuudet
+
+
+Laitevarkaudet:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Fyysinen suojaus, Llaitteiden valvonta ja seuranta, ei jätetä laitteita valvomatta, turvallinen säilytys
+
+Vaikutusten pienentäminen:
+
+    Levyn salaus, etälukitus ja -tyhjennys, varmuuskopiot, minimoidaan laitteella säilytettävä data
+
+
+Sabotaasi:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Käyttöoikeuksien hallinta, henkilöstön taustaselvitykset, työtehtävien eriyttäminen, valvonta ja lokit
+
+Vaikutusten pienentäminen:
+
+    Varmuuskopiot ja palautus, toiminnan jatkuvuussuunnitelma, selkeät prosessit häiriötilanteisiin, vararesurssit
+
+
+Kiristys:
+
+Toteutumisen todennäköisyyden pienentäminen:
+
+    Haittaohjelmasuojaus ja päivitykset, sähköpostisuodatus ja käyttäjien koulutus
+
+Vaikutusten pienentäminen:
+
+    Offline-varmuuskopiot, selkeä toimintasuunnitelma, nopea eristäminen, viestintä- ja kriisinhallintasuunnitelma
