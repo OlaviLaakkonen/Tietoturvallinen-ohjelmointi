@@ -1,0 +1,8 @@
+' -- SELECT * FROM käyttäjät WHERE nimi = 'seppo'
+Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+' UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --
+Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --', '' UNION SE...' at line 1
+
+'
+Virhe: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
